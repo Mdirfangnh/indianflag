@@ -18,7 +18,7 @@ t.goto(-400, 250)
 t.pendown()
  
 # Orange Rectangle 
-#white rectangle
+# colur white rectangle
 
 t.color("orange")
 t.begin_fill()
